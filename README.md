@@ -50,15 +50,10 @@ A dynamic, responsive, and interactive Quiz Application built using **HTML5, CSS
 ⚙️ How to Run
 
 1. **Clone the repository:**
-git clone https://github.com/your-username/quiz-app-javascript.git
-
-
-
+git clone https://github.com/chadhas282-afk/Quiz-Generator
 
 2. **Navigate to the folder:**
 cd quiz-app-javascript
-
-
 
 3. **Open the App:**
 Simply open `index.html` in your preferred web browser.
